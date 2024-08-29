@@ -55,7 +55,7 @@ const Testimonials: React.FC = () => {
                 className="w-80 flex-shrink-0"
               >
                 <CardContent className="p-6">
-                  <p className="mb-4 text-gray-600 italic">"{testimonial.text}"</p>
+                  <p className="mb-4 text-gray-600 italic">&quote;{testimonial.text}&quote;</p>
                   <p className="font-semibold text-gray-800">- {testimonial.name}</p>
                 </CardContent>
               </Card>

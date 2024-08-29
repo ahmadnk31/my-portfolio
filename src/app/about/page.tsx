@@ -28,7 +28,7 @@ const About: React.FC = () => {
           </div>
           <h1 className="text-5xl font-extrabold mb-2 text-center text-indigo-700">Ahmadullah Nekzad</h1>
           <p className="text-lg text-gray-600 text-center">
-            Hello! I'm Ahmadullah Nekzad, a passionate developer with a love for creating amazing web experiences. I specialize in building modern, responsive, and performant applications using the latest technologies.
+            Hello! I&apos;m Ahmadullah Nekzad, a passionate developer with a love for creating amazing web experiences. I specialize in building modern, responsive, and performant applications using the latest technologies.
           </p>
         </div>
 
@@ -36,7 +36,7 @@ const About: React.FC = () => {
           <div>
             <h2 className="text-3xl font-bold text-indigo-600 mb-2">Background</h2>
             <p className="text-gray-600">
-              I have a diverse background in software engineering and design. Over the years, I’ve worked on numerous projects that have helped me hone my skills in front-end and back-end development.
+              I have a diverse background in software engineering and design. Over the years, I&apos;ve worked on numerous projects that have helped me hone my skills in front-end and back-end development.
             </p>
           </div>
 
